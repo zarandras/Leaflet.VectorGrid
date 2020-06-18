@@ -3,18 +3,18 @@
 # Leaflet.VectorGrid
 
 
-Display gridded vector data (sliced [GeoJSON](http://geojson.org/), [TopoJSON](https://github.com/mbostock/topojson/wiki) or [protobuf vector tiles](https://github.com/mapbox/vector-tile-spec)) in [Leaflet](http://www.leafletjs.com) 1.0.0
+Display gridded vector data (sliced [GeoJSON](https://geojson.org/), [TopoJSON](https://github.com/mbostock/topojson/wiki) or [protobuf vector tiles](https://github.com/mapbox/vector-tile-spec)) in [Leaflet](https://www.leafletjs.com) 1.0.0
 
 
 ## Demos
 
 |          |           |
 | ---      | ---       |
-| [`demo-geojson.html`](http://leaflet.github.io/Leaflet.VectorGrid/demo-geojson.html) | Sliced GeoJSON |
-| [`demo-topojson.html`](http://leaflet.github.io/Leaflet.VectorGrid/demo-topojson.html) | Sliced TopoJSON (sorry for the antimeridian mess, topojson-to-geojson seems to not handle it properly) |
-| [`demo-vectortiles.html`](http://leaflet.github.io/Leaflet.VectorGrid/demo-vectortiles.html) | Protobuf vector tiles: OpenMapTiles, MapBox, MapZen or even ESRI vector tiles |
-| [`demo-points.html`](http://leaflet.github.io/Leaflet.VectorGrid/demo-points.html) | Clickable points and lines |
-| [`demo-points-icons.html`](http://leaflet.github.io/Leaflet.VectorGrid/demo-points-icons.html) | Points as icons |
+| [`demo-geojson.html`](https://leaflet.github.io/Leaflet.VectorGrid/demo-geojson.html) | Sliced GeoJSON |
+| [`demo-topojson.html`](https://leaflet.github.io/Leaflet.VectorGrid/demo-topojson.html) | Sliced TopoJSON (sorry for the antimeridian mess, topojson-to-geojson seems to not handle it properly) |
+| [`demo-vectortiles.html`](https://leaflet.github.io/Leaflet.VectorGrid/demo-vectortiles.html) | Protobuf vector tiles: OpenMapTiles, MapBox, MapZen or even ESRI vector tiles |
+| [`demo-points.html`](https://leaflet.github.io/Leaflet.VectorGrid/demo-points.html) | Clickable points and lines |
+| [`demo-points-icons.html`](https://leaflet.github.io/Leaflet.VectorGrid/demo-points-icons.html) | Points as icons |
 
 
 ## Using
@@ -54,7 +54,7 @@ This plugin exposes two new classes:
 
 You can find the API documentation, and the explanation about the styling, at:
 
-http://leaflet.github.io/Leaflet.VectorGrid/vectorgrid-api-docs.html
+https://leaflet.github.io/Leaflet.VectorGrid/vectorgrid-api-docs.html
 
 ## Dependencies
 
