@@ -1,7 +1,7 @@
 {
   "name": "leaflet.vectorgrid",
   "version": "1.3.0",
-  "description": "Display gridded vector data (sliced GeoJSON or protobuf vector tiles) in Leaflet 1.0",
+  "description": "Display gridded vector data (GeoJSON or protobuf vector tiles) in Leaflet 1.0",
   "main": "dist/Leaflet.VectorGrid.bundled.min.js",
   "scripts": {
     "test": "exit 0",
@@ -19,15 +19,17 @@
   ],
   "authors": [
     "Iván Sánchez Ortega <ivan@sanchezortega.es>",
-    "Per Liedman <per@liedman.net>"
+    "Per Liedman <per@liedman.net>",
+    "Molnár András <modras@ilab.sztaki.hu>",
+    "Lukács Gábor <lukacs.hod@gmail.com>"
   ],
   "license": "Beerware",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IvanSanchez/Leaflet.VectorGrid.git"
+    "url": "https://github.com/zarandras/Leaflet.VectorGrid.git"
   },
   "bugs": {
-    "url": "https://github.com/IvanSanchez/Leaflet.VectorGrid/issues"
+    "url": "https://github.com/zarandras/Leaflet.VectorGrid/issues"
   },
   "devDependencies": {
     "eslint": "^4.19.0",
